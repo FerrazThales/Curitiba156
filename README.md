@@ -9,4 +9,5 @@
 Para fazer a extração dos dados foi utilizado código Python. [Você pode checar o código clicando aqui](). Neste código, detalho cada etapa para a obtenção e tratamento dos dados. Depois disso, devido ao grande volume de dados, foi inserid
 
 
+
 3. Falar do gráfico do looker
