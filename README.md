@@ -8,6 +8,4 @@
 
 Para fazer a extração dos dados foi utilizado código Python. [Você pode checar o código clicando aqui](https://github.com/FerrazThales/Curitiba156/blob/main/Importar_Dados_e_Carregar_no_meu_Drive_do_Google.ipynb). Neste código, detalho cada etapa para a obtenção e tratamento dos dados. Depois disso, devido ao grande volume de dados, foi necessário incluir todos os registros em uma tabela do BigQuery.
 
-
-
-3. Falar do gráfico do looker
+A fim de demonstrar os resultados de uma maneira visual, foi utilizado o Looker Studio.
