@@ -6,7 +6,7 @@
   Desta forma, o projeto tem o objetivo de analisar as solicitações feitas ao canal 156 ao longo dos últimos 03 anos (2020~2023) e verificar o comportamento dos registros dentre os bairros da cidade.
 
 
-Para fazer a extração dos dados foi utilizado código Python. [Você pode checar o código clicando aqui](). Neste código, detalho cada etapa para a obtenção e tratamento dos dados. Depois disso, devido ao grande volume de dados, foi inserid
+Para fazer a extração dos dados foi utilizado código Python. [Você pode checar o código clicando aqui](https://github.com/FerrazThales/Curitiba156/blob/main/Importar_Dados_e_Carregar_no_meu_Drive_do_Google.ipynb). Neste código, detalho cada etapa para a obtenção e tratamento dos dados. Depois disso, devido ao grande volume de dados, foi necessário incluir todos os registros em uma tabela do BigQuery.
 
 
 
