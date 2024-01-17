@@ -10,4 +10,4 @@ Para fazer a extração dos dados foi utilizado código Python. [Você pode chec
 
 A fim de demonstrar os resultados de uma maneira visual, foi utilizado o Looker Studio. [Você pode conferir o relatório do Looker Studio, clicando aqui](https://lookerstudio.google.com/reporting/a248b98e-ce46-4132-86e8-e1a7d887c8cf). Neste relatório, é possível selecionar um período analisado (dentre 2020 a 2023), escolher o tipo de solicitação (conforme feita a triagem pela prefeitura) e o bairro que é assunto da solicitação. Desta forma, uma análise sobre as solicitações a cidade podem ser feitas, incluindo um detalhamento maior através de uma tabela dinâmica que traz os principais assuntos e subdivisões das solicitações!
 
-ps: Não sei se já teve contato com alguma ferramenta de BI, mas você também pode fazer filtros clicando em cima dos gráficos!!! Pode filtrar 2023, por exemplo, clicando em cima da coluna azul de 2023.
+*obs: Não sei se já teve contato com alguma ferramenta de BI, mas você também pode fazer filtros clicando em cima dos gráficos!!! Pode filtrar 2023, por exemplo, clicando em cima da coluna azul de 2023.*
